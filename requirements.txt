@@ -1,0 +1,5 @@
+biopython>=1.84
+matplotlib>=3.8
+mizani>=0.13
+pandas>=2.2
+plotnine>=0.13
