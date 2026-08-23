@@ -1,7 +1,7 @@
-### Open Data Analysis - PubMed
+### Python Notebooks for CrunchME Visuals
 ---
 
-This repository contains Python notebooks for pulling and analysing data from PubMed's API, on publications related to IACCs.
+This repository contains Python notebooks for creating CrunchME visuals.
 
 #### 🧑‍💻 Lead Developers
 
