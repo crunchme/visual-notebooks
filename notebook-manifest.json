@@ -21,6 +21,7 @@
     { "visualId": "2026-07-07-01", "path": "notebooks/[2026_07_07_01].ipynb" },
     { "visualId": "2026-07-07-02", "path": "notebooks/[2026_07_07_02].ipynb" },
     { "visualId": "2026-08-01-01", "path": "notebooks/[2026_08_01_01].ipynb" },
-    { "visualId": "2026-08-01-02", "path": "notebooks/[2026_08_01_02].ipynb" }
+    { "visualId": "2026-08-01-02", "path": "notebooks/[2026_08_01_02].ipynb" },
+    { "visualId": "2026-08-01-03", "path": "notebooks/[2026_08_01_03].ipynb" }
   ]
 }
