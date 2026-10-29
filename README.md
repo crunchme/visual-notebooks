@@ -29,6 +29,19 @@ this is its public notebook release.
 notebook file. The public repository deliberately excludes notebooks that do not yet underpin a
 published visual.
 
+### UK clinical trials: 2026-10-29-01
+
+The UK trial-registration notebook downloads current records from ClinicalTrials.gov, ISRCTN
+and the EU Clinical Trials Register when run. It contains no bundled registry extract or quoted
+source passages. The published visual uses records retrieved on **29 October 2026**; later runs
+can differ as registrations are added, updated or corrected. Changed review cases stop export
+pending reconciliation. Runtime downloads remain subject to each registry's terms.
+
+No Drive mount or local source files are needed. Brutel fonts are optional and must be supplied
+under an appropriate licence; a free font fallback is available. Only the chart, aggregate tables
+and run metadata are exported by default. Private frozen inputs and record-level audits are not
+published in this repository.
+
 ## Contact
 
 Rory Preston — [rory@crunchme.org](mailto:rory@crunchme.org)
