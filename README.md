@@ -42,6 +42,22 @@ under an appropriate licence; a free font fallback is available. Only the chart,
 and run metadata are exported by default. Private frozen inputs and record-level audits are not
 published in this repository.
 
+### Global charity income: 2026-11-14-01
+
+This notebook reproduces the selected-charity income overview for financial years
+ending 2000–2024, using the source-linked snapshot reviewed on 18 November 2026.
+It needs no BigQuery access, private files or credentials. It includes whole-charity
+income, not research spending or a complete worldwide funding census. Earlier
+coverage is thinner and some transfers remain unresolved. The notebook preserves
+reported amounts, derived period-average ECB conversion factors and signed
+adjustments separately. Source documents are linked, not redistributed.
+
+ECB rates are available free from the
+[ECB](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html).
+Conversion factors and converted income are CrunchME calculations, not ECB charity
+statistics. ECB material retains its own reuse conditions, including notices for
+paid distribution; CrunchME's content licence does not override them.
+
 ## Contact
 
 Rory Preston — [rory@crunchme.org](mailto:rory@crunchme.org)
